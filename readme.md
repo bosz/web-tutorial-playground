@@ -10,6 +10,12 @@ This repo covers the following
 
 The code here is very basic and meant for beginners. 
 
+## Stages
+1. **Project 1:** Basic search page that looks like google/bing
+![Search page](screenshots/search-page.png "a title")
+
+
+
 ## Need a trainer?
 Need me to assist as a trainer? I can do HTML, CSS, JavaScript, Typescript, PHP, Larave, React, React Native, VueJS, Firebase. Contact me on fongohmartin@gmail.com lets talk. 
 
