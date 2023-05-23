@@ -12,7 +12,7 @@ The code here is very basic and meant for beginners.
 
 ## Stages
 1. **Project 1:** Basic search page that looks like google/bing
-![Search page](screenshots/search-page.png "a title")
+![Search page](images/screenshots/search-page.png "a title")
 
 
 
